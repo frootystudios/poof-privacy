@@ -1,15 +1,16 @@
-# Sloth Privacy Policy
+# Poof Privacy Policy
 
-Public privacy policy for the **Sloth** browser extension by FrootyStudios.
+Public privacy policy for the **Poof** browser extension by FrootyStudios.
 
-Sloth processes supported-tab URLs, titles, media metadata, artwork references,
-playback state, and control availability locally in the browser to provide its
-popup and sessions dashboard. This information is not transmitted to
-FrootyStudios, sold, used for advertising, or stored on an external Sloth server.
+Poof lets you hide unwanted elements — ads, popups, banners, and other clutter —
+on the web pages you visit. It stores the elements you hide and your settings
+locally in the browser (`chrome.storage.local`) so pages stay decluttered. This
+information is not transmitted to FrootyStudios, sold, used for advertising, or
+stored on an external server. Poof makes no network requests and contains no
+remote code.
 
-The extension is limited to YouTube, YouTube Music, Spotify, and Gaana. Optional
-feedback submitted after uninstall is handled through Google Forms as described in
-the policy.
+Optional feedback submitted after uninstall is handled through Google Forms as
+described in the policy.
 
 Published via GitHub Pages:
-<https://frootystudios.github.io/sloth-privacy-policy/>
+<https://frootystudios.github.io/poof-privacy/>
